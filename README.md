@@ -25,7 +25,7 @@ As the primary developer on this project, I was responsible for the end-to-end t
 
 * **AI Workflow Engineering:** Implemented the core AI logic, orchestrating the multi-step process for both the RAG (Retrieval-Augmented Generation) and Auto-CoT (Automatic Chain-of-Thoughts) components.
 
-* **Feedback Loop Mechanism:** Coded the "Human-in-the-Loop" (HITL) pathway, ensuring that corrected data could be captured and prepared for subsequent system optimization.
+* **Testing & Validation:** Conducted tests on the system's output, making sure the system process and output correctly worked.
 
 
 ## 4. System Architecture & Flow
