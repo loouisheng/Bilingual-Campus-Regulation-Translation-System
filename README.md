@@ -74,7 +74,7 @@ The core highlight of this system is the combination of two advanced AI techniqu
 
 ## 6. Technology Stack (Conceptual)
 
-* **Core Models:** LLMs
+* **Core Models:** LLMs (Ollama, GPT, Gemini)
 
 * **Core Techniques:** RAG, Auto-CoT, Prompt Engineering
 
