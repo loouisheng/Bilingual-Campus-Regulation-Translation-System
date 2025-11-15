@@ -54,7 +54,7 @@ The core highlight of this system is the combination of two advanced AI techniqu
     * This high-quality prompt is sent to a second LLM, which performs the final translation.
     * With sufficient context and clear stylistic guidance, this model can generate a highly accurate and stylistically consistent English translation.
 
-* **HITL Feedback:**
+* **Human in the Loop (HITL) Feedback:**
     * The initial draft is submitted to human reviewers (e.g., humanities students, translation center experts).
     * These experts review and correct the text, with their "finalized results" fed back into the system.
     * This valuable feedback is used to optimize (fine-tune) the RAG knowledge base and the Auto-CoT model's rule derivation, allowing the system to get "smarter" over time.
