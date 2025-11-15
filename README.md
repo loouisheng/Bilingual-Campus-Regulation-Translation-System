@@ -79,11 +79,3 @@ The core highlight of this system is the combination of two advanced AI techniqu
 * **Core Techniques:** RAG, Auto-CoT, Prompt Engineering
 
 * **Database (Inferred):** Vector Database
-
-* **Collaboration (Planned):** National Kaohsiung University of Science and Technology (NKUST) Translation Center
-
-## 7. Project Status
-
-* Prototype / Proof of Concept
-
-* This design was part of the "Digital Humanities Interdisciplinary Talent and Smart Leadership Program" proposal.
